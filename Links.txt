@@ -1,3 +1,15 @@
-https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-plan-chooser
+https://www.microsoft.com/de-de/microsoft-365/business/microsoft-365-plan-chooser
 
 https://m365maps.com/
+
+https://docs.microsoft.com/en-us/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy#configure-the-auto-enrollment-for-a-group-of-devices
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email?view=o365-worldwide
+
+exrca.com
+
+https://easydmarc.com/tools/dkim-lookup
+
+https://chromeenterprise.google/intl/de_de/browser/download/#windows-tab
+
+https://support.google.com/chrome/a/answer/187202?hl=de
